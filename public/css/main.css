@@ -29,6 +29,9 @@ body {
 
 .hearts-gray {
   background: url("../images/hearts-gray.jpg") repeat;
+  border-style:solid;
+  border-width:15px;
+  border-color:#558cff;
 }
 
 .love {
